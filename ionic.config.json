@@ -1,0 +1,7 @@
+{
+  "name": "chrome-speedpad-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
